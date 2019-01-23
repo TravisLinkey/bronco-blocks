@@ -2,7 +2,7 @@
 
 ### An Ethereum smart contract lottery program
 
-A project for my CS4080 - Software Engineering class. 
+A project for CS4080 - Software Engineering 
 
 Operations include:
 - sending other Ethereum addresses ETH
