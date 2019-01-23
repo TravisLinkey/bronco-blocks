@@ -1,6 +1,6 @@
 # Bronco-blocks
 
-### An Ethereum smart contract lottery program
+### An Ethereum smart contract lottery program.
 
 A project for CS4080 - Software Engineering 
 
