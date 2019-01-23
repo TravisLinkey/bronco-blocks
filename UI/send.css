@@ -1,0 +1,8 @@
+.page-content{
+    text-align: center;
+}
+
+#loader {
+    width: 100px;
+    display: none;
+}

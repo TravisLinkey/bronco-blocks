@@ -1,0 +1,26 @@
+{
+  "name": "homescreen_standalone_v2",
+  "version": "1.0.0",
+  "description": "Project created for:  \t- homescreen shows user balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  },
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisLinkey/BroncoBlocks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TravisLinkey/BroncoBlocks/issues"
+  },
+  "homepage": "https://github.com/TravisLinkey/BroncoBlocks#readme"
+}
